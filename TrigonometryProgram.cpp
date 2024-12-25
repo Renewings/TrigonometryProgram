@@ -3,9 +3,9 @@
 #define PI 3.141592654
 
 int main() {
-	double a;				// The A side of a triangle -- Will be used for the adjacent value
-	double b;				// The B side of a triangle -- Will be used for the opposite value
-	double c;				// The C side of a triangle -- Will be used for the hypotenuse value
+	double a;			// The A side of a triangle -- Will be used for the adjacent value
+	double b;			// The B side of a triangle -- Will be used for the opposite value
+	double c;			// The C side of a triangle -- Will be used for the hypotenuse value
 	double degree;			// The degree of a specific point in a triangle
 	char choice1;			// Choose which theorem to calculate
 	char choice2;			// Choose a side of a triangle
